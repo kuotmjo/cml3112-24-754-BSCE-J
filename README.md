@@ -5,7 +5,7 @@
 This project utilizes regional demographic data to analyze structural and geographic housing distributions for infrastructural development planning. Utilizing data science tools allows civil engineers to efficiently map urban growth trends, optimize localized resource management, and forecast zoning asset allocations.
 
 ### File List
-* `proofoflifeA2.ipynb` - The complete executed data notebook.
+* `24-754-BSCE-J_W02.ipynb` - The complete executed data notebook.
 * `california_housing_train.csv` - The source spatial dataset.
 
 ### Run Instructions
